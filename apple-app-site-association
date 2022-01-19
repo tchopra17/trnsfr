@@ -1,2 +1,16 @@
-"test"
+{
+  "applinks": {
+      "details": [
+           { 
+	    "appIDs": ["T3M598D5YF.com.tusharchopra.trnsfr],
+             "components": [
+               {
+                  "/": "/link/v2/stab;e/sandbox-oauth-a2a-redirect.html",
+                  "comment": "Matches any URL whose path starts with /buy/"
+               },
+	     ]
+           }
+          ]
+         }
+}
 
